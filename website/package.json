@@ -8,7 +8,7 @@
     "@hashicorp/nextjs-scripts": "13.0.0-canary.1",
     "@hashicorp/react-button": "4.0.0",
     "@hashicorp/react-code-block": "2.0.4",
-    "@hashicorp/react-docs-page": "^10.0.0",
+    "@hashicorp/react-docs-page": "^10.9.3",
     "@hashicorp/react-hashi-stack-menu": "^1.0.10",
     "@hashicorp/react-head": "1.1.6",
     "@hashicorp/react-product-downloader": "4.1.5",
